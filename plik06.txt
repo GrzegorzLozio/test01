@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+plik na branchu main
+=======
+plik3
+
+>>>>>>> readingFile

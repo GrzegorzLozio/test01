@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+drugiplik
+=======
+plik 2 na branch readingFile
+>>>>>>> readingFile
